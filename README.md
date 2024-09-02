@@ -1,8 +1,8 @@
 # p5.js Interactive Visuals
 This project contains two interactive p5.js sketches:
 
-- [Flow Field Sketch](## Flow Field Sketch)
-- [Transparent Sphere Sketch](## Transparent Sphere Sketch)
+- [Flow Field Sketch](#flow-field-sketch)
+- [Transparent Sphere Sketch](#transparent-sphere-sketch)
 ## Flow Field Sketch
 
 ```javascript
