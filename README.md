@@ -4,6 +4,8 @@ This project contains two interactive p5.js sketches:
 - [Flow Field Sketch](#flow-field-sketch)
 - [Transparent Sphere Sketch](#transparent-sphere-sketch)
 
+![alt-text](FlowFieldGif.gif)
+
 ## Flow Field Sketch
 
 ```javascript
