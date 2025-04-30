@@ -1,4 +1,8 @@
 {
-  "technologies": ["React", "Canvas API", "AI"],
+  "technologies": [
+  "p5.js WEBGL",
+  "Perlin Noise",
+  "Canvas API"
+],
   "image": "FlowFieldGif.gif"
 }
